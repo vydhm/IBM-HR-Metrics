@@ -2,4 +2,5 @@
 Personal project on analyzing HR metrics
 
 
-test
+Individual project of exploring the relationships between Attrition and other factors by visualizations
+Used for ppt presentation
